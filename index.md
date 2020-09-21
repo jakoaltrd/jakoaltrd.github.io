@@ -1,6 +1,7 @@
 ---
 layout: index
 ---
+<<<<<<< HEAD
 /**
 Write a C/C++ function that lights a patch of height-mapped geometry.
 Your function should perform standard diffuse lighting on each vertex, as well as self-shadowing.
@@ -28,3 +29,6 @@ void light_patch( float light_direction[3], float light_intensity )
 {
 	// TODO: write me
 }
+=======
+你好，我是孙山，欢迎使用GitHub pages
+>>>>>>> 93c584c5482442db5dc8b44c53d0ddcf6df6a4f5
