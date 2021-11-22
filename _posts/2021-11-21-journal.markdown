@@ -20,4 +20,4 @@
     github上
 
 
-![Pandao editor.md](https://github.com/jakoaltrd/jakoaltrd.github.io/tree/master/assets/img/kotei-offer.PNG "Pandao editor.md")
+![](https://github.com/jakoaltrd/jakoaltrd.github.io/tree/master/assets/img/kotei-offer.PNG)
